@@ -1,0 +1,13 @@
+f8c95187a4af110d02b75f47526c3023 *DESCRIPTION
+4876b90d1b9acc6b36729e34aa0c139c *NAMESPACE
+ab2265dea12bcc416dd0174c96b2319d *R/data.R
+efa6b15981a4bf373e9f56b65a1c795f *R/fit_functions.R
+c923f3b529d24185a9b31c5ffd7891bc *R/plot_functions.R
+cf794928715019cf81bd51d467156178 *R/utils-pipe.R
+f0deaea57fa1641cf756bc2804839b00 *build/partial.rdb
+952f8886f2b301fe460f3aa32cb73520 *data/symptom.rda
+774d9de8e95aa151215efcd304549d41 *man/pipe.Rd
+845c6cbf9aa390e60638eecace714242 *man/pred.fit.Rd
+e299e72bd5bdc09f644b251b43e5511e *man/pred.plot.Rd
+73ed7c45afb657a0ee419ff2a98bfa70 *man/sim.plot.Rd
+313461f5c661938cebe1867ed58d5c42 *man/symptom.Rd
